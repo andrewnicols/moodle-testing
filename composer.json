@@ -1,0 +1,12 @@
+{
+    "name": "moodle/moodle-testing",
+    "description": "Test dependencies for Moodle installations",
+    "type": "metapackage",
+    "require": {
+        "phpunit/phpunit": "^11",
+        "behat/mink": "^1.11.0",
+        "mikey179/vfsstream": "^1.6",
+        "behat/behat": "^3"
+    },
+    "license": "GPL-3.0-or-later"
+}
