@@ -3,6 +3,7 @@
     "description": "Test dependencies for Moodle installations",
     "type": "metapackage",
     "require": {
+        "moodle/lms": "^5.1-",
         "phpunit/phpunit": "^11",
         "behat/mink": "^1.11.0",
         "mikey179/vfsstream": "^1.6",
