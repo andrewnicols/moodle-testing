@@ -7,6 +7,10 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+## Fixed
+
+- Added missing Behat dependencies
+
 ## [1.0.0] - 2026-01-05
 
 ### Added
