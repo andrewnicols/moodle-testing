@@ -7,6 +7,10 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+## Fixed
+
+- Added missing Symfony dependencies for Behat
+
 ## [1.0.1] - 2026-01-06
 
 ## Fixed
